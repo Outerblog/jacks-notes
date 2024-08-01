@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "Discord Username": "https://discordapp.com/users/901089713253937213/",
+      "Discord account": "https://discordapp.com/users/901089713253937213/",
       "Join my Minecraft server 😉": "https://discord.gg/pGr9fQvuGn",
     },
   }),

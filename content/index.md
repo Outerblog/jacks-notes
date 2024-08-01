@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Welcoem to my site
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is my website for my notes as a Year 11 IGCSE Student.
+I hope you find my notes helpful hopefully!!
